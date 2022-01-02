@@ -1,0 +1,469 @@
+/* ---------------------------------------------------- */
+/* large device start */
+
+
+/* large device end */
+/* ---------------------------------------------------- */
+/* Medium  device start */
+@media(min-width:768px) and (max-width:991.98px){
+    .navbar-toggler i{
+        color: #fff;
+    }
+    .banner_overly {
+        padding-top: 80px;
+        padding-bottom: 80px;
+    }
+    .banner_text h3 {
+        font-size: 26px;
+    }
+    .banner_text h1 {
+        font-size: 50px;
+        line-height: 55px;
+        padding-top: 22px;
+    }
+    .banner_text p {
+        font-size: 16px;
+        padding: 0px 60px;
+    }
+    #service {
+        padding-bottom: 40px;
+    }
+    .service_item {
+        padding-bottom: 80px;
+    }
+    .service_texts h3 {
+        padding-top: 17px;
+    }
+    #idea {
+        padding-top: 60px;
+    }
+    .idea_head h3 {
+        font-size: 30px;
+    }
+
+    .idea_head p {
+        font-size: 16px;
+        line-height: 24px;
+        padding-top: 25px;
+        padding-bottom: 35px;
+    }
+    .pur_txtes h3 {
+        font-size: 20px;
+        font-weight: 500;
+        padding-bottom: 20px;
+    }
+    .pur_txtes p {
+        font-size: 15px;
+    }
+    .pur_btn a {
+        padding: 13px 16px 15px 16px;
+        font-size: 13px;
+    }
+    #folio {
+        padding-top: 60px;
+    }
+    .folio_btn button {
+        padding: 8px 14px;
+        font-size: 12px;
+    }
+    .folio_item {
+        margin-bottom: 25px;
+    }
+    .video_overly {
+        padding-top: 120px;
+        padding-bottom: 120px;
+    }
+    .video_main_txt h3 {
+        padding-top: 35px;
+        padding-bottom: 25px;
+        font-size: 22px;
+    }
+    .video_main_txt p {
+        line-height: 26px;
+        font-size: 20px;
+    }
+    .mobile_text {
+        padding-top: 60px;
+    }
+    .mobile_text h3 {
+        font-size: 25px;
+    }
+    .mobile_text p {
+        font-size: 15px;
+        line-height: 24px;
+        padding-top: 20px;
+        padding-bottom: 25px;
+    }
+    .mob_btm_txt {
+        padding-left: 60px;
+        padding-bottom: 35px;
+    }
+    .mob_btm_txt ul li {
+        line-height: 20px;
+        font-size: 15px;
+        padding-bottom: 10px;
+    }
+    .mob_btm_txt ul li i {
+        margin-right: 10px;
+        font-size: 16px;
+    }
+    #counterup {
+        padding-top: 80px;
+        padding-bottom: 70px;
+    }
+   
+
+    #rec_post {
+        padding-top: 60px;
+        padding-bottom: 60px;
+    }
+    .post_texts {
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+    .post_texts p {
+        font-size: 13px;
+        padding-bottom: 15px;
+    }
+    .prev{
+        font-size: 25px;
+        top: 240px;
+        left: 30%;
+       
+    }
+     .next{
+        font-size: 25px;
+        top: 240px;
+        right: 30%;
+    }
+    .ft_head{
+        padding-top: 60px;
+    }
+    .ft_left_text p {
+        line-height: 20px;
+    }
+    .ft_right_text p {
+        line-height: 20px;
+        text-align: right;
+        margin-top: 20px;
+    }
+
+}
+
+/* Medium device end */
+/* ---------------------------------------------------- */
+/* Small device start */
+@media(min-width:576px) and (max-width:767.98px){
+    .navbar-toggler i{
+        color: #fff;
+    }
+    .banner_overly {
+        padding-top: 80px;
+        padding-bottom: 80px;
+    }
+    .banner_text h3 {
+        font-size: 22px;
+    }
+    .banner_text h1 {
+        font-size: 45px;
+        line-height: 55px;
+    }
+    .banner_text p {
+        font-size: 16px;
+        padding: 0px 0px;
+    }
+    #service {
+        padding-bottom: 40px;
+    }
+    .service_item {
+        padding-bottom: 80px;
+    }
+    .service_texts h3 {
+        padding-top: 17px;
+    }
+    #idea {
+        padding-top: 60px;
+    }
+    .idea_head h3 {
+        font-size: 30px;
+    }
+
+    .idea_head p {
+        font-size: 16px;
+        line-height: 24px;
+        padding-top: 25px;
+        padding-bottom: 35px;
+    }
+    .pur_txtes h3 {
+        font-size: 20px;
+        font-weight: 500;
+        text-align: center;
+    }
+    .pur_txtes p {
+        font-size: 14px;
+        line-height: 25px;
+        padding-bottom: 20px;
+        text-align: center;
+    }
+    .pur_btn {
+        text-align: center !important;
+    }
+    .pur_btn a {
+        padding: 17px 22px 15px 22px;
+        font-size: 14px;
+    }
+    #folio {
+        padding-top: 60px;
+    }
+    .folio_btn button {
+        padding: 8px 14px;
+        font-size: 12px;
+    }
+    .folio_item {
+        margin-bottom: 25px;
+    }
+    .video_overly {
+        padding-top: 120px;
+        padding-bottom: 120px;
+    }
+    .video_main_txt h3 {
+        padding-top: 35px;
+        padding-bottom: 25px;
+        font-size: 22px;
+    }
+    .video_main_txt p {
+        line-height: 26px;
+        font-size: 20px;
+    }
+    .mobile_text {
+        padding-top: 60px;
+    }
+    .mobile_text h3 {
+        font-size: 20px;
+        font-weight: 700;
+    }
+    .mobile_text p {
+        font-size: 13px;
+        line-height: 24px;
+        padding-top: 20px;
+        padding-bottom: 25px;
+    }
+    .mob_btm_txt {
+        padding-left: 0;
+        padding-bottom: 35px;
+    }
+    .mob_btm_txt ul li {
+        line-height: 20px;
+        font-size: 12px;
+        padding-bottom: 10px;
+    }
+    .mob_btm_txt ul li i {
+        margin-right: 10px;
+        font-size: 14px;
+    }
+    #counterup {
+        padding-top: 80px;
+        padding-bottom: 70px;
+    }
+    .count_item {
+        margin-bottom: 70px;
+    }
+
+    #rec_post {
+        padding-top: 60px;
+        padding-bottom: 60px;
+    }
+    .post_texts {
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+    .post_texts p {
+        font-size: 13px;
+        padding-bottom: 15px;
+    }
+    .prev{
+        font-size: 25px;
+        top: 240px;
+        left: 30%;
+       
+    }
+     .next{
+        font-size: 25px;
+        top: 240px;
+        right: 30%;
+    }
+    .ft_head{
+        padding-top: 60px;
+    }
+    .ft_left_text p {
+        line-height: 20px;
+    }
+    .ft_right_text p {
+        line-height: 20px;
+        text-align: right;
+        margin-top: 20px;
+    }
+
+
+}
+
+/* Small device end */
+/* ---------------------------------------------------- */
+/* Extra small device start */
+@media(max-width:575.98px){
+    .navbar-toggler i{
+        color: #fff;
+    }
+    .banner_overly {
+        padding-top: 80px;
+        padding-bottom: 80px;
+    }
+    .banner_text h3 {
+        font-size: 22px;
+    }
+    .banner_text h1 {
+        font-size: 46px;
+        line-height: 55px;
+    }
+    .banner_text p {
+        font-size: 16px;
+        padding: 0px 0px;
+    }
+    #service {
+        padding-bottom: 40px;
+    }
+    .service_item {
+        padding-bottom: 80px;
+    }
+    .service_texts h3 {
+        padding-top: 17px;
+    }
+    #idea {
+        padding-top: 60px;
+    }
+    .idea_head h3 {
+        font-size: 26px;
+        line-height: 30px;
+    }
+
+    .idea_head p {
+        font-size: 12px;
+        line-height: 24px;
+        padding-top: 25px;
+        padding-bottom: 35px;
+    }
+    .pur_txtes h3 {
+        font-size: 15px;
+        font-weight: 600;
+    }
+    .pur_txtes p {
+        font-size: 14px;
+        line-height: 25px;
+        padding-bottom: 20px;
+        text-align: center;
+    }
+    .pur_btn {
+        text-align: center !important;
+    }
+    .pur_btn a {
+        padding: 17px 22px 15px 22px;
+        font-size: 14px;
+    }
+    #folio {
+        padding-top: 60px;
+    }
+    .folio_btn button {
+        padding: 8px 14px;
+        font-size: 13px;
+        margin-bottom: 10px;
+    }
+    .folio_item {
+        margin-bottom: 25px;
+    }
+    .video_overly {
+        padding-top: 100px;
+        padding-bottom: 80px;
+    }
+    .video_main_txt h3 {
+        padding-top: 35px;
+        padding-bottom: 25px;
+        font-size: 22px;
+    }
+    .video_main_txt p {
+        line-height: 20px;
+        font-size: 12px;
+    }
+    .mobile_text {
+        padding-top: 60px;
+    }
+    .mobile_text h3 {
+        font-size: 20px;
+        font-weight: 700;
+    }
+    .mobile_text p {
+        font-size: 13px;
+        line-height: 24px;
+        padding-top: 20px;
+        padding-bottom: 25px;
+    }
+    .mob_btm_txt {
+        padding-left: 0;
+        padding-bottom: 35px;
+    }
+    .mob_btm_txt ul li {
+        line-height: 20px;
+        font-size: 12px;
+        padding-bottom: 10px;
+    }
+    .mob_btm_txt ul li i {
+        margin-right: 10px;
+        font-size: 14px;
+    }
+    #counterup {
+        padding-top: 80px;
+        padding-bottom: 70px;
+    }
+    .count_item {
+        margin-bottom: 70px;
+    }
+
+    #rec_post {
+        padding-top: 60px;
+        padding-bottom: 60px;
+    }
+    .post_texts {
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+    .post_texts p {
+        font-size: 13px;
+        padding-bottom: 15px;
+    }
+    .prev{
+        font-size: 25px;
+        top: 240px;
+        left: 30%;
+       
+    }
+     .next{
+        font-size: 25px;
+        top: 240px;
+        right: 30%;
+    }
+    .ft_head{
+        padding-top: 60px;
+    }
+    .ft_left_text p {
+        line-height: 20px;
+    }
+    .ft_right_text p {
+        line-height: 20px;
+        text-align: right;
+        margin-top: 20px;
+    }
+
+
+}
+
+/* Extra small device end */
+/* ---------------------------------------------------- */
